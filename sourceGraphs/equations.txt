@@ -1,5 +1,7 @@
 modified 8/23/19
 
+a
+r=2.2-4cos(theta)
 
 n
 y=-0.007*(x-5)^6*(x-1)+6
